@@ -1,0 +1,101 @@
+2011-09-25 23:20:21 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#1 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-09-25 23:31:05 Error: [MissingControllerException] Controller class WoklistsController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 12:57:01 Error: [MissingControllerException] Controller class ViewController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 13:58:51 Error: [MissingControllerException] Controller class TodolistsController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 21:46:48 Error: [MissingControllerException] Controller class LogoutController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 22:09:34 Error: [MissingControllerException] Controller class TodolistsController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 22:10:51 Error: [MissingControllerException] Controller class TodolistsController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 22:13:13 Error: [MissingControllerException] Controller class TodolistsController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-26 22:15:27 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->delete('2')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-26 22:17:05 Error: [MissingActionException] Action UsersController::delete() could not be found.
+#0 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#1 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#2 {main}
+2011-09-26 22:17:13 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->deleteacc('2')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-26 22:20:57 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->deleteacc('2')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-26 22:23:35 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->deleteacc('2')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-26 22:56:29 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->deleteacc('1')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-26 22:56:50 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->deleteacc('1')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-27 13:43:00 Error: [MissingControllerException] Controller class AnswersController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 13:44:18 Error: [MissingControllerException] Controller class AnswersController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 13:44:22 Error: [MissingControllerException] Controller class AnswersController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 13:44:44 Error: [MissingControllerException] Controller class AnswersController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 13:55:10 Error: [MethodNotAllowedException] Method Not Allowed
+#0 [internal function]: UsersController->deleteacc('2')
+#1 C:\xampp\cake\cake\libs\dispatcher.php(170): call_user_func_array(Array, Array)
+#2 C:\xampp\cake\cake\libs\dispatcher.php(119): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#3 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#4 {main}
+2011-09-27 19:55:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 19:55:40 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 19:56:48 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 19:57:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 19:57:08 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
+2011-09-27 19:58:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\todolists\webroot\index.php(77): Dispatcher->dispatch(Object(CakeRequest))
+#1 {main}
